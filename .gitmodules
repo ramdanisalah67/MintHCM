@@ -1,0 +1,4 @@
+[submodule "mhcm"]
+	path = mhcm
+	url = https://github.com/minthcm/minthcm.git
+	branch = 3.1.5
